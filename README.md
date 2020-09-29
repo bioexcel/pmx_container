@@ -5,7 +5,7 @@
 # PMX container
 
 ### Introduction
-PMX docker and singularity containers used for [biobb_pmx](https://github.com/bioexcel/biobb_pmx) BioExcel Building Blocks modules.
+PMX (python 3 version) docker and singularity containers used for [biobb_pmx](https://github.com/bioexcel/biobb_pmx) BioExcel Building Blocks modules.
 
 ### Docker Use
 
